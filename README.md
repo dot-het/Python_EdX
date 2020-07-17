@@ -1,4 +1,5 @@
-# Python_EdX
+# HarvardX: PH526x
+# Using Python for Research
 Python exercises_EdX course Harvard University
 In this course:
     Review the basics of Python 3 programming
